@@ -5,7 +5,7 @@
 I am a passionate software engineer with a love for creating innovative solutions. I have experience in full-stack development and working as an application analyst. Here are a few things about me:
 
 - 🌱 I’m currently learning Python
-- 🔭 I’m currently working on a SQL based Enterprise Database Optimizatio
+- 🔭 I’m currently working on a SQL based Enterprise Database Optimization
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with machine learning projects
 - 💬 Ask me about web development, JavaScript, and Python
