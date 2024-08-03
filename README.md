@@ -1,34 +1,6 @@
 # Hi there, I'm Kapil Jethwani 👋
 
-![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapil9099&show_icons=true&theme=radical)      
-<div class="poll-container">
-    <div class="poll-item">
-        <label for="html-css">HTML & CSS</label>
-        <div class="poll-bar" id="html-css-bar"></div>
-        <span class="poll-percentage" id="html-css-percentage">100%</span>
-    </div>
-    <div class="poll-item">
-        <label for="python">Python</label>
-        <div class="poll-bar" id="python-bar"></div>
-        <span class="poll-percentage" id="python-percentage">90%</span>
-    </div>
-    <div class="poll-item">
-        <label for="csharp">C#</label>
-        <div class="poll-bar" id="csharp-bar"></div>
-        <span class="poll-percentage" id="csharp-percentage">90%</span>
-    </div>
-    <div class="poll-item">
-        <label for="react">React</label>
-        <div class="poll-bar" id="react-bar"></div>
-        <span class="poll-percentage" id="react-percentage">90%</span>
-    </div>
-    <div class="poll-item">
-        <label for="node">Node.js</label>
-        <div class="poll-bar" id="node-bar"></div>
-        <span class="poll-percentage" id="node-percentage">90%</span>
-    </div>
-</div>
-
+![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapil9099&show_icons=true&theme=radical)    
 ## Skills
 
 - **HTML & CSS**: 100%
