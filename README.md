@@ -4,10 +4,13 @@
 ## Skills
 
 - **HTML & CSS**: 100%
+- **Javascript**: 100%
 - **Python**: 90%
 - **C#**: 90%
 - **React**: 90%
 - **Node.js**: 90%
+- **GIT**: 100%
+- **ASP.NET**: 80%
 
 I am a passionate software engineer with a love for creating innovative solutions. I have experience in full-stack development and working as an application analyst. Here are a few things about me:
 
